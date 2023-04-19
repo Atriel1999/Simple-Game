@@ -6,4 +6,4 @@ develop 2 Simple game using Processing
 </br></br>
 
 #### game No.2!
-[testgame2결과화면](https://user-images.githubusercontent.com/118334518/232964094-211eaef5-9369-4459-9cbc-261352739e02.PNG)
+![testgame2결과화면](https://user-images.githubusercontent.com/118334518/232964094-211eaef5-9369-4459-9cbc-261352739e02.PNG)
